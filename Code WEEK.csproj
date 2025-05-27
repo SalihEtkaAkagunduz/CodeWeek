@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Code_WEEK</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>True</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>Code_WEEK.Program</StartupObject>
+    <ApplicationIcon>Ekran_görüntüsü_2022-10-25_203710-removebg-preview.ico</ApplicationIcon>
+    <Description>Matematik öğretmek için Code Week için yapılan bir uygulama</Description>
+    <Copyright>SEA Leraning®</Copyright>
+    <PackageProjectUrl>salihetkaakagunduz.epizy.com</PackageProjectUrl>
+    <PackageIcon>Ekran_görüntüsü_2022-10-25_203710-removebg-preview.png</PackageIcon>
+    <PackageReleaseNotes>4.26.9 Bazı Hatalar Giderildi</PackageReleaseNotes>
+    <AssemblyVersion>3.4.5.2</AssemblyVersion>
+    <FileVersion>3.4.5.2</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Ekran_görüntüsü_2022-10-25_203710-removebg-preview.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Downloads\Ekran_görüntüsü_2022-10-25_203710-removebg-preview.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,680 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="timer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>104, 17</value>
+  </metadata>
+  <metadata name="timer3.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>191, 17</value>
+  </metadata>
+  <metadata name="timer4.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>278, 17</value>
+  </metadata>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Malesef "SEA Learning" ürününün -1.27.13- sürümü için bu sayfa henüz mevcut değil veya 
+henüz kullanıma sunulmamış. Lütfen bölgenizde mevcut olan bölümlerden devam etmeye
+ çalışın eğer bir sıkıntı olduğunu düşünüyorsaniz bizle iletişim kurabilirsiniz 
+                                                                                                                                          -SEAAPP-</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>Burada bir yandan talebe yetiştirip bir yandan Gök Cisimleri'ni araştırarak bilim eserleri yazdı. Güneş saatleri icat edip İstanbul'un enlem ve boylamını
+ bugünkü değerle bire bir hesapladı. Gezegenler arası uzaklıkları hesaplayıp Ay'ın ilk haritasını çıkardı. Çıkardığı Yıldız haritaları Krisrof kolomb'a Amerika 
+kıtasının keşfinde yardımcı oldu.</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>1449'da hacca gitmek istedi. Tebriz'de Akkoyunlu Devleti hükümdarı Uzun Hasan kendisine büyük saygı gösterdi ve Osmanlı 
+Devleti ile barış görüşmelerinde yardımını istedi. Bunun üzerine Ali Kuşçu, bir süre Uzun Hasan'ın sözcülüğünüyaptı. Ardından,
+ Osmanlı padişahı II. Mehmed'in davetiyle İstanbul'a gitti.</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value> Astronom, matematikçi ve kelâm âlimi olan Ali Kuşçu, 1403'te Semerkand'da, Timur İmparatorluğu topraklarında doğdu. Babası Muhammed,
+ Timur İmparatorluğu hükümdarı ve astronomu olan ve aynı zamanda Timur'un torunu olan Uluğ Bey'in kuşçusu olduğu için, ailesi "Kuşçu"
+ lakabıyla meşhur olmuştur. Küçük yaştan itibaren matematik ve astronomiye pek ilgi duyan Ali Kuşçu, bu alanlarda Bursalı Kadızâde Rûmî,
+ Gıyaseddin Cemşid ve Muînuddîn Kâşî gibi isimlerden ders aldı. Daha sonra bilgisini artırmak için Kirman'a gitti. Burada Hall-ü Eşkâl-i Kamer
+ (Ay Safhalarının Açıklanması) adlı risale ile Şerh-i Tecrid adlı eserini yazdı. Ali Kuşçu, Semerkand ve Kirman'da eğitimini tamamladıktan sonra
+ Uluğ Bey'e yardımcı ve rasathanesine müdür oldu.</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>Cahit Arf, cebir konusundaki çalışmalarıyla dünyaca ün kazanmıştır. Sentetik geometri problemlerinin cetvel ve pergel yardımıyla çözülebilirliği konusunda yaptığı çalışmalar, cisimlerin kuadratik 
+formlarının sınıflandırılmasında ortaya çıkan değişmezlere ilişkin Arf değişmezi ve Arf halkaları gibi literatürde adıyla anılan çalışmaların yanı sıra "Hasse-Arf Teoremi" adı ile anılan teoremi matematik
+ bilimine kazandırmıştır.[4] ''Arf Sabiti'' ve ''Arf Kapanışları'' gibi terimleri buldu.
+
+</value>
+  </data>
+  <data name="label28.Text" xml:space="preserve">
+    <value>Arf, İnönü Armağanı'nı (1943) ve TÜBİTAK Bilim Ödülü'nü kazandı (1974). Bu ödülü alırken yaptığı konuşmada 'Bilim insanının amacı anlamaktır'
+ hemen ardından 'ama büyük harflerle anlamaktır' sözüyle kendine göre bilim insanını açıklamıştır. Onuruna yapılan cebir ve sayılar teorisi üzerine
+ uluslararası bir sempozyum, 1990'da 3-7 Eylültarihleri arasında Silivri'de gerçekleştirilmiştir. Halkalar ve geometri üzerine ilk konferanslar da 1984'te 
+İstanbul'da yapılmıştır. Arf, matematikte geometri kavramı üzerine bir makale sunmuştur. Cahit Arf, 1997 yılının Aralık ayında ağır bir kalp hastalığı 
+nedeni ile ölmüştür.</value>
+  </data>
+  <data name="label25.Text" xml:space="preserve">
+    <value>Cahit Arf (11 Ekim 1910, Selanik - 26 Aralık 1997, İstanbul), Türk matematikçi ve bilim insanı, eski TÜBİTAK Bilim Kolu başkanıdır. 
+1948'de İnönü Ödülü'nü, 1974'te TÜBİTAK Bilim Ödülü'nü kazanmıştır. 1980 yılında İstanbul Teknik Üniversitesi ve Karadeniz Teknik 
+Üniversitesi Onur Doktorası, 1981'de de ODTÜ Onur Doktorası'nı almıştır. 1990 yılında Cahit Arf'ın onuruna Sayılar Teorisi üzerine 
+uluslararası bir sempozyum düzenlenmiştir. İleri düzeyde araştırmalar yaptığı Halkalar ve Geometri üzerine ilk konferanslar da 1984'te
+ İstanbul'da[1] yapılmıştır. 2009 yılından itibaren 10 Türk lirası üzerinde Arf'ın sureti yer almaktadır</value>
+  </data>
+  <data name="label29.Text" xml:space="preserve">
+    <value>-Nazari Hesap (1931)
+
+-Mihanik (1934)
+
+-Sümer Riyaziyesinin Esas ve Mahiyetine Ait Rapor (1937)
+
+-Dış Alem Meselesi (Matematik Bakımından) (1940)
+
+-Tanzimat ve Müspet İlimler: Riyaziye (1940)
+</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>Kerim Erim (d. 1 Şubat 1894, İstanbul - ö. 28 Aralık 1952), Türk ordinaryüs matematikçi.
+
+İlk doktoralı Türk matematikçidir[. Doktora derecesini 1919'da Almanya’nın Erlangen kentindeki Frederich-Alexanders Üniversitesi’nden aldı. 
+Türkiye'de yüksek matematik öğretiminin yaygınlaşmasında ve çağdaş matematiğin yerleşmesinde etkin rol oynadı; mekaniğin matematik esaslara
+ dayandırılmasına öncülük etti. Türkiye'de bir matematik doktorası yöneten ilk bilim insanı oldu</value>
+  </data>
+  <data name="label36.Text" xml:space="preserve">
+    <value>Hayyam'ın Öklid'in Ögeleri hakkındaki yorumunun bir kısmı paralel aksiyom ile ilgilidir.282 Hayyam'ın incelemesi, aksiyomun petitio principii'ye değil, daha sezgisel bir önermeye dayalı ilk işlemi olarak kabul edilebilir.
+ Hayyam, diğer matematikçilerin önermeyi "kanıtlamak" için önceki girişimlerini esas olarak kabul etmesi hiçbir şekilde Beşinci Varsayımın kendisinden daha kolay olmayan bir şeyi varsaydıkları gerekçesiyle çürütür.Aristoteles
+'in görüşlerinden yararlanarak, geometride hareketin kullanımını reddeder ve bu nedenle Al-Heytham tarafından yapılan farklı girişimi reddeder. Matematikçilerin Öklid'in ifadesini diğer varsayımlarından kanıtlayamamasından
+ memnun olmayan Ömer; aksiyomu, tüm dik açıların birbirine eşit olduğunu belirten Dördüncü Varsayım ile birleştirmeye çalıştı.
+Hayyam, Hayyam-Saccheri dörtgeninin tepe açıları için üç farklı dar, geniş ve dik açı durumunu ele alan ilk kişiydi. Onlar hakkında bir dizi teorem kanıtladıktan sonra Varsayım V, dik açı hipotezini takip ettiğini ispatladı ve kendi 
+içinde çelişkili olduğu için geniş ve dar açı durumlarını çürüttü.
+Paralel varsayımı kanıtlamaya yönelik ayrıntılı girişimi, Öklid dışı olma olasılığını açıkça gösterdiğinden, geometrinin daha da geliştirilmesi için önemliydi. Dar, geniş ve dik açı hipotezlerinin sırasıyla Gauss-Bolyai-Lobachevsky'nin 
+Öklidyen olmayan hiperbolik geometri’sine, Riemann geometrisi ‘ne ve Öklid geometrisi'ne götürdüğü bilinmektedir.
+"Kübik denklem ve konik kesitlerin kesişimi" Tahran Üniversitesi'nde saklanan iki bölüm bir el yazmasının ilk sayfası.
+Tusi'nin Hayyam'ın paralelliklere yaklaşımı üzerine yorumları Avrupa'ya ulaştı. Oxford'da geometri profesörü John Wallis, Tusi'nin yorumunu Latince'ye çevirdi. Cizvit geometrici Girolamo Saccheri’nin, ("euclides ab omni naevo
+ vindicatus", 1733) çalışması genellikle Öklidyen olmayan geometrinin nihai gelişimindeki ilk adım kabul edilir ve Wallis'in çalışmasına benzerdir.
+Amerikalı matematik tarihçisi David Eugene Smith Saccheri'nin "Tusi'ninkiyle aynı lemmayı kullandığını hatta rakamı tam olarak aynı şekilde yazıp lemmayı aynı amaç için kullandığından" bahseder. Ayrıca "Tusi, bunun Ömer 
+Hayyam'a bağlı olduğunu açıkça belirtir ve metinden, ikincisinin onun ilham kaynağı olduğu açıkça görülüyor"der</value>
+  </data>
+  <data name="label37.Text" xml:space="preserve">
+    <value>Gıyaseddin Ebu'l-Feth Ömer ibni İbrahim Nişaburi[3][4] (d. 18 Mayıs 1048 – ö. 4 Aralık 1131), yaygın olarak bilinen ismiyle Ömer Hayyam 
+(Farsça: عمر خیّام), Pers polimat, matematikçi, astronom, tarihçi, filozof ve şairdi.[5][6][7][8] Selçuklu İmparatorluğu'nun ilk başkenti olan 
+Nişabur'da doğdu. Bir bilgin olarak, Birinci Haçlı Seferi sırasında Selçuklu hanedanının yönetimiyle çağdaştı.
+
+Bir matematikçi olarak, en çok koniklerin kesişimiyle geometrik çözümler sağladığı kübik denklemlerin sınıflandırılması ve çözümü 
+konusundaki çalışmalarıyla tanınmıştır.[9] Hayyam ayrıca paralel aksiyomun anlaşılmasına katkıda bulunmuştur.[10]:284 Bir gökbilimci
+ olarak, çok hassas 33 yıllık enterkalasyon döngüsüne sahip bir güneş takvimi olan Celali takvimini tasarladı.[11][12]:659 Bu, yaklaşık bin 
+yıl sonra, hâlâ kullanımda olan Pers takviminin temelini oluşturdu. İran'da 1079 yılında, bir yılın uzunluğunun 365.24219858156 gün olarak
+ ölçüldüğünü duyurdu.[13] Bir kişinin ömrü boyunca bir yılın uzunluğunun altıncı ondalık basamakta değiştiği düşünüldüğünde, bu son
+ derece doğrudur. Karşılaştırma olarak 19. yüzyılın sonunda bir yılın uzunluğu 365.242196 gün iken, bugün 365.242190 gündür.
+
+Bir şair olarak, rubaileriyle tanınmıştır. Rubailerin sayısının Rubaiyat'ının istinsah tarihlerine göre günümüze yaklaştıkça arttığı 
+görülmekte ve birçoğunun zamanla ona izafe edilen başka şairlerin şiirleri olduğu anlaşılmaktadır. Kendi özgün üslubunu yansıtan 
+rubailerin sayısı 100 civarındadır.[14]
+
+XIX. yüzyıldan itibaren Türkiye’de Hayyam’ın rubailerine olan ilginin artmasıyla birlikte Hayyam’ın şiirleri üzerine birçok yazı yazılmış 
+ve rubailerin birçok tercümesi yapılmıştır. Rubailerin bilinen en eski Türkçe çevirisi Muallim Fevzi’ye aittir. Onun bazı rubailerin düz yazı
+ tercümelerinin yanı sıra Hayyam hakkındaki makalelerini de kapsayan Hayyam adlı çalışması önce Tercüman-ı Hakikat’in 1885-1886 
+yıllarındaki sayılarında yayımlanmış, ardından kitap haline getirilmiştir (İstanbul 1303)</value>
+  </data>
+  <data name="label41.Text" xml:space="preserve">
+    <value>Cemâlü'l-Küttâb ve Kemâli'l-Hüssâb                                  Umdetü'l-Hisâb                                        Mecmuatü't-Tevârih
+ 
+Süleymannâme                                                                      Fetihname-i Karabuğdan                         Beyan-ı Menazil-i Sefer-ul Irakeyn</value>
+  </data>
+  <data name="label42.Text" xml:space="preserve">
+    <value>Bosna'nın Visoko kasabasında doğan Matrakçı Nasuh,[6] hem Piyade hem de Devşirme sisteminden geçen yetenekli bir Yeniçeri, kılıç ustası ve zekasıyla tanınan
+ keskin nişancıydı. Beş dil biliyordu ve Osmanlı donanması'na katıldı.
+
+Boşnak Müslüman bir aileden gelmesine rağmen, Nasuh devşirme sistemine alındı. Devşirme sistemi Hristiyan halkı için ayrılan bir uygulama olmasına rağmen
+, Bosna'da devşirme yerel Müslüman ailelere de yapılmaya başlandı.[7][8][9]
+
+Devrin ünlü şairi Saî'den dersler aldı. Ünlü bir hattat olan Nasuh, divânî ve nesih yazı stillerinde değişiklikler yaptı. Divânî yazı stilinde, daha kapalı ve daha küçük 
+yazılan harfleri daha büyük ve daha açık kaleme alarak kolayca yazılmasını ve okunmasını sağladı. Nesih yazı stilinde de harfleri daha irileştirdi ve harflerin şekilleri
+ üzerinde değişikliklere gitti. Bu güncellemeler, Acem üslubunu Rumî üsluba dönüştürerek Osmanlı tarzını oluşturmak anlamına geliyordu.[10] Divânî yazı stilinde
+ önde gelen isimlerden birisi olarak kabul edilmektedir.
+
+Matematik ve geometri üzerine uzun bir süre çalıştıktan sonra çalışmalarını Cemâlü'l-Küttâb ve Kemalü'l-Hisâb adıyla kitaplaştırdı ve Osmanlı padişahı I. Selim'e 
+adamıştır.[11] Tarih alanında da çalışan Matrakçı Nasuh, Taberî Tarihi'ni Mecmaü't-Tevârih adıyla Türkçeye çevirmiştir. 3 nüsha olarak yayınlanan Süleymannâme
+ kitabında 1520-1537, 1543-1551 ve 1542-1543 yıllarını anlatmıştır. Ayrıca I. Süleyman'ın Fetihname-i Karabuğdan adlı İran seferini anlatan bir eser yazdı. Umdet-ul
+ Hisab adlı kitabı üzerinde yapılan yakın tarihli bir çalışmada, Matrakçı'nın bazı gerçek çarpma metotları icat ettiği keşfedilmiştir. Bu kitapta gösterilen önemli
+ sonuçlardan biri, John Napier'in Avrupa'ya yeniden tanıtmasından yaklaşık 50 yıl önce, kafes çarpım yönteminin Enderun'da yaygın olarak kullanılmasıydı</value>
+  </data>
+  <data name="label47.Text" xml:space="preserve">
+    <value>Gelenbevi İsmail Efendi (d. 1730 - ö. 1790?) Türk matematikçi.
+
+1730 yılında şimdiki Manisa'nın Gelenbe kasabasında doğan[1] Gelenbevi İsmail Efendi, Osmanlı İmparatorluğu matematikçilerindendir. Asıl adı İsmail'dir. 
+Gelenbe kasabasında doğduğu için ikinci adı onun bu doğduğu kasabadan gelir. Daha çok Gelenbevi adıyla ün kazanmıştır.
+
+Önce, kendi çevresindeki bilginlerden ilk bilgilerini almıştır. Daha sonra, öğrenimini tamamlamak üzere İstanbul'a gitmiştir. Burada, çok değerli ve kültürlü
+ öğretmenlerden yararlanıp matematik bilgisini oldukça ilerletmiştir. Müderrislik sınavını kazanarak 33 yaşında müderris olmuştur. Bundan sonra kendisini 
+tümüyle ilme verip çalışmalarına devam etmiştir.
+
+Gelenbevi, eski yöntemle problem çözen son Osmanlı matematikçisidir. Sadrazam Halil Hamid Paşa ve Kaptan-ı Derya Cezayirli Hasan Paşa'nın istekleri
+ üzerine, Kasımpaşa'da açılan Mühendishane-i Bahrî-i Hümâyûn'a altmış kuruşla matematik öğretmeni olarak atandı. Bu atama ona parasal yönden bir rahatlık getirdi.
+
+Hakkında şöyle bir öykü anlatılır: 'Bazı silahların hedefi vurmaması, padişah III. Selim'i kızdırmış ve bunun üzerine Gelenbevi'yi huzuruna çağırarak ona uyarıda
+ bulunmuştur. Gelenbevi bunun üzerine hedefe olan uzaklıkları tahmin ederek gerekli silahlardaki düzeltmeleri yapmış ve topların hedefi vurmalarını sağlamıştır.
+ Gelenbevi'nin bu başarısı padişahın dikkatini çekmiş ve padişah tarafından ödüllendirilmiştir</value>
+  </data>
+  <data name="label52.Text" xml:space="preserve">
+    <value>Salih Zeki Bey (1864, İstanbul - 2 Temmuz 1921 (İstanbul), Osmanlı-Türk matematik bilgini, bilim tarihçisi ve astronomdur.
+
+Nesnel bir yaklaşımda Türklerin ve Müslümanların bilime katkılarını tespit etmeye çalışmış ve çağdaş Türk bilim tarihçiliğinin kurucusu olmuştur. 
+Araştırmacılar için bugün de güvenilir bir kaynak olan Asar-ı Bakiye (Ölmez Eserler) adlı eseri bırakmıştır. Bilim felsefesi ile uğraşmış, Henri Poincaré 
+ve Alexis Bertrand'ın eserlerini çevirerek bilim felsefesinin Türkiye'de tanınması ve yaygınlaşmasına katkıda bulunmuştur.
+Salih Zeki, önde gelen son dönem Osmanlı matematik bilginlerindendi. İkdam, Darüşşafaka ve İktisadiyat gazeteleri ile Darülfünun dergisine sayısız 
+katkıda bulundu. Dönemin ünlü bilginleriyle matematik ve fen bilimleri konusunda yazılı tartışmalara girdi ve bu konularda bir kısmı ders kitabı olmak
+ üzere çok sayıda yapıt verdi.</value>
+  </data>
+  <data name="label58.Text" xml:space="preserve">
+    <value>18 Kasım 1956 tarihinde İstanbul'da doğdu. Babası tanınmış yazar Aziz Nesin, annesi Meral Çelen'dir.İlkokuldan sonra ortaokulu İstanbul'
+da Saint Joseph Lisesi'nde, liseyi de İsviçre'nin Lozan kentindeki College Champittet'de tamamladı. 1977-1981 yılları arasında Paris Diderot
+ Üniversitesi'nden matematik alanında “maîtrise” (ustalık) derecesi aldı. Daha sonra ABD'de Yale Üniversitesi'nde matematiksel mantık ve cebir
+ konularında doktora yapan Ali Nesin, 1985-1986 arasında Kaliforniya Üniversitesi Berkeley Kampüsü'nde öğretim üyesi olarak çalıştı. Türkiye'ye
+ kısa dönem askerlik görevi için geldiği sırada erlerin aynı şırıngadan aşı olmasına itiraz ettiği için "orduyu isyana teşvik" iddiasıyla tutuklanarak 
+yargılandı.Yargılanma sonunda beraat etti.
+
+1987-1989 arasında Notre Dame Üniversitesi'nde yardımcı doçent, ardından 1995'e kadar Kaliforniya Üniversitesi Irvine Kampusü'nde doçent ve
+ daha sonra profesör olarak görev yaptı. 1993-1994 öğretim yılını Bilkent Üniversitesi'nde misafir öğretim görevlisi olarak geçirdi. Babası Aziz Nesin'in
+ 1995'te ölümü üzerine yurda kesin dönüş yaptı ve Nesin Vakfı yöneticiliğini üstlendi.
+
+1996'dan beri İstanbul Bilgi Üniversitesi Matematik Bölümü Başkanı olan Ali Nesin dört çocuk sahibidir. Kasım 2004'ten beri de Nesin Yayınevi 
+genel yönetmenliğini yapmaktadır ve 2011 yılından itibaren Hrant Dink Vakfı danışma kurulu üyesidir.
+
+Ali Nesin'in Matematik ve Korku, Matematik ve Doğa, Matematik ve Sonsuz, Matematik ve Oyun, Develer ve Eşekler, Matematik Canavarı ve 
+Matematik ve Gerçek adlı popüler matematik kitaplarının yanı sıra, Önermeler Mantığı, Sayma ve Sezgisel Kümeler Kuramı gibi yarıakademik
+ matematik kitapları ve henüz birinci, ikinci ve dördüncü ciltleri yayımlanan Analiz kitapları mevcuttur. Bunların yanı sıra çeşitli dergilerde
+ çıkmış bilimsel makaleleri ve Alexander Borovik ile birlikte yazdığı İngilizce bir kitabı (Groups of Finite Morley Rank), babası Aziz Nesin'in 
+Osmanlıca el yazılarından çevirileri bulunmaktadır.
+
+Ali Nesin'in babası Aziz Nesin ile mektuplaşmaları (diğer kitapları gibi) Nesin Yayınevi tarafından iki cilt olarak yayımlanmıştır. Matematiksel
+ araştırma alanı "Morley mertebesi sonlu gruplar"dır. Aynı zamanda, 2003'ten beri üç ayda bir yayımlanan ve Türk Matematik Derneği'nin
+ sahibi olduğu Matematik Dünyası adlı derginin sorumlu yazı işleri müdürüdür. Ayrıca, TÜBA (Türkiye Bilimler akademisi) tarafından kabul
+ edilmiş kümeler kuramı ve analiz konularında ders notları bulunmaktadır.
+
+Matematik araştırmaları, bölüm başkanlığı ve Nesin Vakfı yöneticiliğinin yanı sıra yağlı boya resim, desen ve portre çalışmaları da
+ yapmaktadır. Türkiye İnsan Hakları Kurumu Vakfı (TİHAK) kurucu üyesidir. Nesin Matematik Köyü'nün kurucusudur. Bilim
+ Akademisi üyesidir.
+Nesin, Ağustos 2018'de Uluslararası Matematikçiler Kongresi tarafından dört yılda bir verilen Leelavati Ödülü'ne layık görüldü.</value>
+  </data>
+  <data name="label62.Text" xml:space="preserve">
+    <value>El-Harezmi'nin matematik, coğrafya, astronomi ve haritacılığa katkısı, cebir ve trigonometride yeniliğin temelini oluşturdu. Doğrusal ve ikinci dereceden denklemleri çözmeye yönelik sistematik yaklaşımıyla cebrin ortaya çıkmasını 
+sağlayan kitabının başlığı şöyledir: “Tamamlama ve Dengeleme ile Hesaplama Üzerine Özlü Kitap”
+
+820 yılında Harezmi tarafından yazılmış olan “Hint Rakamlarıyla Hesaplama Üzerine” isimli kitap Hint-Arap rakam sisteminin Orta Doğu ve Avrupa'ya yayılmasının ana sebebidir. Latinceye "Algoritmi de numero Indorum" olarak
+ çevrilmiştir. Çalışmalarından bazıları Fars ve Babillerin astronomisi, Hint sayıları ve Yunan matematiği üzerine kuruludur. Harezmi, Batlamyus’un Afrika ve Orta Doğu'yla ilgili verilerini sistematize etti ve düzeltti.
+
+Bir diğer önemli kitap olan Kitab surat al-ard (Dünya’nın görünüşü; Coğrafya olarak tercüme edildi), Batlamyus’un Coğrafyası’ndaki yerlerin koordinatlarını temel almakla birlikte, Akdeniz, Asya ve Afrika için var olan değerleri 
+geliştirerek sunmuştur. Halife el-Memun tarafından dünyanın çevresini belirlemek ve bir dünya haritası hazırlamak için görevlendirilen 70 kadar coğrafyacıya eşlik edip projeye yardım etmiştir.
+
+12. yüzyılda eserlerinin Latince çevirileri vasıtasıyla Avrupa'ya yayılmasıyla birlikte Avrupa'da matematiğin gelişimi üzerinde derin bir etkisi olmuştur</value>
+  </data>
+  <data name="label63.Text" xml:space="preserve">
+    <value>Hint rakamları üzerine yaptığı çalışmaların Latince çevirileri ondalık konumsal sayı sistemini 12. yüzyılda Batı dünyasına tanıtmıştır. El-Harezmî'nin 
+Tamamlama ve Dengeleme ile Hesaplamaya Dair Özlü Kitabı doğrusal ve ikinci dereceden denklemlerin ilk sistematik çözümünü sunmuştur. Cebiri 
+bağımsız bir disiplin olarak öğreten, "indirgeme" ve "dengeleme" (denklemin farklı taraflarındaki benzer terimlerin aynı tarafa alınarak sadeleştirilmesi
+) yöntemlerini tanıtan ilk kişi olduğu için, Harezmi cebrin atası ya da kurucusu olarak tanımlanmıştır. Cebir alanındaki çalışmaları, 16. yüzyıla kadar
+ Avrupa üniversitelerinde temel matematik ders kitabı olarak kullanılmıştır. Batlamyus’un “Coğrafya” isimli yapıtını gözden geçirerek düzenlemiş, 
+astronomi ve astroloji alanında çalışmalar yapmıştır. Bazı kelimeler el-Harezmî'nin matematiğe olan katkılarının önemini yansıtır. “Cebir” kelimesi 
+ikinci dereceden denklemleri çözmek için kullandığı iki işlemden biri olan el-cebirden türemiştir. Algoritma kelimesi ise isminin Latin biçimi olan 
+Algoritmi’den gelmektedir. Ayrıca ismi her ikisi de basamak anlamına gelen, (İspanyolca) guarismo ve (Portekizce) algarismo kelimelerinin kökenini oluşturur.</value>
+  </data>
+  <data name="label68.Text" xml:space="preserve">
+    <value>Çok yönlü bir bilim insanı olan El-Birûnî, ilköğrenimini Yunan bir bilginden aldı. Tanınmış ve seçkin bir aileden gelen Harezmli matematikçi
+ ve gökbilimci Ebu Nasr Mansur tarafından kollanan El-Birûnî, ilk çalışmalarını bu âlimin yanında yaptı. İlk eseri, "Asar-ül Bakiye"dir.
+
+El-Bîrûnî’nin eserlerinin sayısı yüz seksen civarındadır. Yetmiş adet astronomi ve yirmi adet de matematik kitabı bulunmaktadır. Tıp,
+ biyoloji, bitkiler, madenler, hayvanlar ve yararlı otlar üzerinde bir dizin oluşturmuştur. Ancak bu eserlerden sadece yirmi yedisi günümüze
+ kadar gelebilmiştir. Özellikle Bîrûnî'nin eserlerinin Orta Çağ'da Latinceye çevrilmemiş olması, kitaplarının ağır bir dille yazılmış olmasının bir sonucudur. Ancak Bîrûnî kendisinin de dediği gibi, yapıtlarını 
+sıradan insanlar için değil bilginler için yazmaktaydı.Yine Harezmi "Zîci'nin Temelleri" adlı yapıtının 12. yüzyılda Abraham ben Ezra tarafından İbraniceye çevrildiği bilinmektedir. Batı'nın Birûni ilgisi ise 1870
+'lerde başladı. O günden bugüne Birûni eserlerinin bazılarının tamamı veya bir kısmı Almanca ve İngilizceye çevrildi.
+
+Mektuplarından, Bîrûnî'nin Aristo'yu bildiği anlaşılır. İbn Sînâ gibi önemli bilginlerle beraber çalışan Bîrûnî, Hindistan'a birçok kez gitti. Bu nedenle Hindistan'ı konu alan bir kitap yazdı. Onun bu kitabı birkaç 
+dile çevrildi. Birkaç dile çevrilen bu kitap çoğu bilgine örnek oldu. Birûni’nin bir tane deromanı vardır.</value>
+  </data>
+  <data name="label69.Text" xml:space="preserve">
+    <value>Bîrûnî, Orta Asya'da tarihi bir bölge olan Harezm'de doğdu. Küçük yaşta babasını kaybetti. Harezm'de Afrigoğulları (Âl-i Irak) hanedanı tarafından korundu
+, sarayda matematik ve astronomi eğitimi aldı. Buradaki hocaları İbn-i Irak ve Abdussamed bin Hakîm'dir. Bu dönemde daha 17 yaşındayken ilk kitabını yazdı
+. Harezm, Me'mûnîler hanedanının yönetimine girince Bîrûnî de İran'a giderek bir süre burada yaşadı. Daha sonra ise Ziyârîler tarafından korunmaya başlandı.
+ El Âsâr'ul Bâkiye adlı kitabını Ziyârîlerin sarayında yazmıştır. İki yıl da burada çalıştıktan sonra memleketine geri döndü ve Ebu'l Vefâ ile gökbilim ve astroloji 
+üzerine çalışmaya başladı.
+
+1017'de Gazneli Mahmut, Harezm'i zapt ettiğinde Birûnî de Gazne şehrine gelerek burada Gazneliler'in himayesine girdi. Sarayda büyük itibar gördü ve Gazneli
+ Mahmut'un Hindistan seferine katıldı. Burada Hint bilim adamlarının dikkatini çekti ve Hint ülkesi alınınca da Nendene şehrine yerleşerek bilimsel çalışmalarına
+ burada devam etti. Sanskritçeyi öğrenerek Hint toplumunun yaşamı ve kültürü üzerine çalıştı</value>
+  </data>
+  <data name="label75.Text" xml:space="preserve">
+    <value>Salih Zeki Bey (1864, İstanbul - 2 Temmuz 1921 (İstanbul), Osmanlı-Türk matematik bilgini, bilim tarihçisi ve astronomdur.
+
+Nesnel bir yaklaşımda Türklerin ve Müslümanların bilime katkılarını tespit etmeye çalışmış ve çağdaş Türk bilim tarihçiliğinin kurucusu olmuştur. 
+Araştırmacılar için bugün de güvenilir bir kaynak olan Asar-ı Bakiye (Ölmez Eserler) adlı eseri bırakmıştır. Bilim felsefesi ile uğraşmış, Henri Poincaré 
+ve Alexis Bertrand'ın eserlerini çevirerek bilim felsefesinin Türkiye'de tanınması ve yaygınlaşmasına katkıda bulunmuştur.
+Salih Zeki, önde gelen son dönem Osmanlı matematik bilginlerindendi. İkdam, Darüşşafaka ve İktisadiyat gazeteleri ile Darülfünun dergisine sayısız 
+katkıda bulundu. Dönemin ünlü bilginleriyle matematik ve fen bilimleri konusunda yazılı tartışmalara girdi ve bu konularda bir kısmı ders kitabı olmak
+ üzere çok sayıda yapıt verdi.</value>
+  </data>
+  <data name="label86.Text" xml:space="preserve">
+    <value>1. Risâle fi’ş-şekli’l-ḳaṭṭâʿ 
+
+2. Misâḥatü’l-üker bi’l-üker 
+
+3. Berâhînü Kitâbi’l-Öḳlîdis fi’l-uṣûl. Eser üzerine P. Crozet bir inceleme yapmıştır 
+
+4. Fî İḫrâc ḫaṭṭin müstaḳīm ilâ ḫaṭṭin muʿṭân min noḳṭatin muʿṭât bi-ṭarîḳi’t-taḥlîl ve’t-terkîb ve vuḳūʿi’n-nuḳat ve taʿdîdihâ ve iḥdâs̱i’z-zâviye. 
+
+5. Kitâb fî teshîli’s-sübül li’stiḫrâci’l-eşkâli’l-hendesiyye 
+
+6. İstiḫrâcü’l-muvassaṭeyn ve ḳısmetü’z-zâviyeti’l-müstaḳīme bi-s̱elâs̱eti aḳsâmin mütesâviye bi-ṭarîḳi’l-hendese 
+
+7. Ḫavâṣṣü’l-aʿmideti’l-vâḳıʿa mine’n-noḳṭati’l-muʿṭât ile’l-müs̱elles̱i’l-mütesâviyyi’l-aḍlâʾi’l-muʿṭâ bi-ṭarîḳi’t-taḥdîd. J. P. Hogendijk eseri İngilizce tercümesiyle birlikte yayımlamıştır 
+
+8. Kitâb fi’l-ʿameli’l-müsebbaʿ ve ḳısmeti’z-zâviyeti’l-müstaḳīmeti’l-ḫaṭṭeyn bi-s̱elâs̱eti aḳsâmin mütesâviyetin. Carl Schoy tarafından Almanca’ya çevrilen bu eseri </value>
+  </data>
+  <data name="label87.Text" xml:space="preserve">
+    <value>X. yüzyılın ortalarına doğru Sicistan’da doğdu. Henüz onlu yaşlarında iken İskenderiyeli Pappus’tan çeviriler yaptığı ve 358 (969) yılından
+ önce kesenler teoreminin delilleri üzerine bir risâle yazdığı bilinmektedir. 969’da Şîraz sarayına girdi, o yıl Abdurrahman es-Sûfî’nin dönence
+ gözlemlerine katıldı ve sarayda Ebü’l-Vefâ el-Bûzcânî, Veycen Kûhî ve Nazîf b. Yümn gibi önemli astronomlarla tanıştı. el-Medḫal ilâ ʿilmi
+’l-hendese adlı eserinde Sicistan’da bir planetaryum inşa ettiğini söyler. Muhtemelen aynı yıllarda Hermes, Batlamyus ve Dorotheus’un
+ eserleriyle kendi zamanının eserlerini temel alarak ve şahsî yorumlarını da ekleyerek bir astrolojik tablo hazırlamış, sonraki dönemlerde bazı
+ astrologlar onun bu tablosundan alıntı yapmıştır. Ebû Saîd es-Siczî’nin en önemli çalışması Risâle fi’ş-şekli’l-ḳaṭṭâʿdır. Eser iki yardımcı 
+önermeyle (lemma) başlar ve daha sonra bunlara bağlı olarak on iki teorem verilir. Risâlede yer alan iki yardımcı önerme şöyledir:</value>
+  </data>
+  <data name="label92.Text" xml:space="preserve">
+    <value>Muhyiddin, en çok trigonometri üzerine yazdığı Menelaus Teoremi Üzerine Kitap ve Sinüslerin Hesabı Üzerine Tez adlı eserleriyle bilinmektedir. Ayrıca klasik Yunan matematikçilerinin eserleri, özellikle de Öklit'in 
+Elementler'inin düzenli çokyüzlülerin ölçülerinden bahseden 15. kitabına yaptığı yorumlar da meşhurdur.[1][3] Trigonometri hakkında yazdıkları "bazı orijinal öğeler içerir".
+
+Sinüslerin Hesabı Üzerine Tez’inde bir derecenin yaklaşık değerinin hesaplayabilmek için interpolasyon kullanmıştır. Bunu iki farklı yöntemle yapmış, ardından elde ettiği değerleri kıyaslayarak 4 konumda isabet
+ yakalamıştır. Daha isabetli bir değer, Kadızâde Rümî ve Gıyaseddin Cemşid'in çalışmalarına dek elde edilememiştir. Bununla Muhyiddin, pi sayısı (π) için de yaklaşık bir değer bulmuş ve bunu Arşimet'in 96 kirişler ve
+ teğetler çokgeni kullanarak elde ettiği sınırlarla kıyaslamıştır. Delos problemini de incelemiş, ona Hipokrat'ın iki belirli çizgi arasındaki iki ortalama oransalı bulma yöntemiyle yaklaşmıştır</value>
+  </data>
+  <data name="label93.Text" xml:space="preserve">
+    <value>Muhyîl‐Millet ved‐Dîn Yahyâ Ebû Abdullah ibn Muhammed ibn Ebî El‐Şükr el‐Mağribî el‐Endelüsî ya da kısaca Muhyiddin el-Mağribî 
+(Arapça: محيي الدين المغربي; ö. 1283), İslam'ın Altın Çağı'nda yaşamış Endülüslü bir astronom, astrolog ve matematikçidir. Meraga Rasathanesi'
+nde çalışan ve en meşhurları Nasîrüddin Tûsî olan bir grup astronomdan biriydi. Muhyiddin, astronomi alanında geniş çaplı ve sistematik bir
+ gezegen gözlemi projesi yürüttü, ki bunlar sayesinde yeni astronomik parametreler geliştirilmiştir.</value>
+  </data>
+  <data name="label99.Text" xml:space="preserve">
+    <value>Ahmed bin Musa (z. 803 - m. 878 Bağdat) sistem mühendisliği ve sibernetik ilminin öncülerinden aynı zamanda matematik ve astronomi alanında eserler veren müslüman âlim.
+
+Babası Musa bin Şakir'dir. Çocukluğundan beri ilimle uğraşmış özellikle mekanik ilmine ilgi duymuştur. Kardeşlerinin ve babasının ilim adamı
+ olması, zamanın ilim öğrenmeyle geçirmesi ve halife Memun tarafından korunması onu ilim sahasında daha da yükseltmiş devrinin büyük 
+matematik ve astronomi bilginlerinden biri olmasını sağlamıştır.
+
+Halife Memun'un astronotu olan Yahya bin Ebu Mansur'dan dersler almıştır. Kardeşleri Muhammed ve Hasan'la birlikte yıldızları diğer gök 
+cisimlerini bunların doğuş ve batışlarını inceledi bu incelemelerinin sonucunda yıldızların doğuşu, batışı aynı zamanda onların resimlerini
+ gösteren bir cihaz yaptı ve bu görenleri hayrete düşüren bu cihazı Samarra Rasathanesi'nin önüne koydu. Bu cihazı gören İbn-i Habban el-Taberi 
+hayretini gizleyememişti. Bu cihaz bakırdan olup su kuvvetiyle çalışmaktaydı ve yıldızların resmini, ismini ayrıntılılı bir şekilde hiç kimsenin 
+müdahalesi olmadan gösterebiliyordu.
+
+Ahmed bin Musa astronomi ilminin yanı sıra özellikle mekanik ilmiyle ilgilendi yüzlerce büyüklü küçüklü alet yaptı bu aletlerin içinde otomatik
+ su kapları, kandiller, izafi ağırlık ölçen aletler ve günümüzde hala kullandığımız aletleri tasarlamıştır. Teknik sahada ne kardeşleri ne de başka bir
+ alim ona yetişebilmiştir.
+
+Ahmed bin Musa, kardeşleriyle birlikte Halife Memun tarafından, daha önce Sabit bin Kurra’nın, dünyanın çevresini doğru ölçüp ölçmediğini 
+kontrol etmek için görevlendirilir. Üç kardeş, Sincan’da ve Kûfe’de yaptıkları ölçümler ve hesaplar sonunda, Sabit bin Kurra’nın bulduğu rakam
+ı bulurlar.
+
+Ahmed bin Musa gerek mekanik alanında gerek astronomi alanındaki çalışmalarıyla devrinin en büyük bilim adamlarından biri olduğunu 
+göstermiş ve mekanikte çok kıymetli eserler vererek kendisinden sonra gelecek olan Cezeri gibi daha nice alimlere öncülük etmiştir.</value>
+  </data>
+  <data name="label105.Text" xml:space="preserve">
+    <value>MS 813 yılında iç savaşı kazanan Halife Memun, babası Harun Reşid ile başlayan politikaları sürdürdü ve Teşvik Cemiyeti'ni devraldı. Başkent Bağdat'taki Bilgelik evine, Kindi, el-Harizmi,
+ Huneyin ibn Ishak, Sabit bin Kurre, Beni Musa gibi çok sayıda astronom/astrolog himaye etmiştir.[2]
+
+El-Cevheri'nin Beyt'ül Hikmet'de ne zaman işe alındığı belli değildir, ancak Bağdat'ta Hicri 214-215 (829-830) arasında astronomik bir gözlemde yer aldığı kaydedilmektedir Hakkında
+ çok az şey bilinmektedir. Bir saray astronomu ve astrologuydu. Halife tarafından astronomik aletler yapmakla görevlendirildi. Ayrıca Şam'da (832-833) önemli gökyüzü gözlemlerinde
+ yer aldı. Bağdat'taki Beyt'ül Hikmet'de Öklid ve Batlamyus'un eserlerini tartışmak için diğer bilim adamlarıyla bir araya geldi.
+
+Bir astronomik el kitabı (Zic)[3] yazdı, ancak günümüze kadar korunmadı ve içeriği hakkında sadece dolaylı olarak bir şeyler bilinmektedir.
+
+En çok, bir kısmı el yazısıyla korunmuş olan Öklid'in eserine olan yorumu ile tanınır. Öklid'in Elemanlarının beşinci kitabına eklemeler içerir. Nasîrüddin Tûsî tarafından yazılan bir el 
+yazmasında, Öklid'in paralellik varsayımını kanıtlamaya çalıştığı Elemanlar'ın ilk kitabına yaptığı eklemelerden parçalar da vardır. Simplikios'un ispat girişiminden esinlenmiştir, ancak
+ bundan bağımsızdır. Tusi, el-Cevheri'nin ispatındaki hatayı fark etti; ancak bu, Arap dünyasında paralellik postülatını ispatlamak için bilinen ilk girişimdi.
+
+Ayrıca, Farsça'dan Arapça'ya zehirler üzerine -muhtemelen aslen Hintçe olan- bir kitabı çevirdiği söylenir.</value>
+  </data>
+  <data name="label110.Text" xml:space="preserve">
+    <value>Pascal hayatı boyunca matematiği etkilemeye devam etmiştir. Pascal’ın 1653 yılındaki Traité du triangle arithmétique diye geçen Aritmetik üçgen üzerinde incelemesi, binom çarpanlarını uygun bir
+ tablo halinde tanıtmıştır (Pascal üçgeni).
+
+1		
+1	1		
+1	2	1		
+1	3	3	1		
+1	4	6	4	1		
+1	5	10	10	5	1		
+Tablodaki sayıları bir özyineleme formülü şeklinde belirtmiştir. (m + 1)inci satır ve (n + 1)inci sütundaki sayı tmn olsun. O zaman m = 0, 1, 2, ... ve n = 0, 1, 2, … olduğu durumlarda tmn = tm–1,n
+ + tm,n–1 olur. Sınır koşulları tm,−1 = 0, t−1,n = 0 ,m = 1, 2, 3, ... ve n = 1, 2, 3, ... Üreteç t00 = 1’dir.
+
+Pascal, bir ispat ile sonlandırmıştır:
+
+1654 yılında kumar problemleri ile ilgilenen bir arkadaşının teşvik etmesi sonucu, bu konuda Fermat ile haberleşmiştir ve bu birlikte çalışma sonucu Olasılık Kuramı ortaya çıkmıştır. Arkadaşının 
+adı Antoine Gombaud[1] (lakabı Chevalier de Méré) idi ve belirtilen problem, iki kişinin bir şans oyunu oynarken oyunu birisi kazanmadan önce bitirmek istemesi ve o anki şartlara bakarak her 
+birinin oyunu kazanma olasılığına göre ödülün adil olarak dağıtılması problemiydi (puanlar problemi). Bu tartışmadan itibaren olası değer kavramının tanımı yapılmıştır. Pascal daha sonra 
+(Pensées adlı eserinde) Tanrı inancını ve namuslu bir yaşamı savunmak için olasılığa dayanan bir argüman kullanmıştır (Pascal’ın kumarı). Pascal ve Fermat’ın yaptığı olasılıklar hesaplaması
+ çalışmaları, daha sonra Leibniz’in Kalkülüs formülasyonuna önemli bir temel oluşturmuştur.
+
+1654 yılındaki dini bir tecrübesinden sonra Pascal matematik alanında çalışmayı bırakmıştır.</value>
+  </data>
+  <data name="label111.Text" xml:space="preserve">
+    <value>﻿Blaise Pascal (19 Haziran 1623 – 19 Ağustos 1662), Fransız matematikçi, fizikçi ve düşünürdür.
+
+﻿En bilinen temel eseri Düşünceler'dir. 16 yaşındayken konikler üzerine bir inceleme yazdı. 1642'de 19 yaşında iken vergi tahsildarı
+ babasının işini kolaylaştıracak, dişliler ve tekerleklerden oluşan mekanik bir hesap makinesi tasarladı. Matematikle uğraşan babasıyla
+ birlikte Paris Mersenne Akademisi'ne kabul edildi.</value>
+  </data>
+  <data name="label67.Text" xml:space="preserve">
+    <value>Descartes'ın en kalıcı miraslarından biri, geometriyi tanımlamak için cebiri kullanan, Kartezyen veya analitik geometriyi geliştirmesiydi. Descartes "denklemlerde bilinmeyenleri x, y ve z ile ve bilinenleri a, b ve c" ile temsil 
+etme geleneğini icat etti. Ayrıca, kuvvetleri veya üsleri göstermek için üst simge kullanan "standart gösterime öncülük etti"; örneğin, x kareyi belirtmek için 2'yi x2 şeklinde kullandı.[135][136]:19 Cebir için bilgi sisteminde,
+ özellikle soyut, bilinmeyen nicelikler hakkında akıl yürütmeyi otomatikleştirmek veya mekanikleştirmek için bir yöntem olarak kullanarak cebire temel bir yer atayan ilk kişiydi.[137]:91-114 Avrupalı matematikçiler daha
+ önce geometriyi cebirin temeli olarak hizmet eden daha temel bir matematik biçimi olarak görmüşlerdi. Cebirsel kurallara Pacioli, Cardan, Tartaglia ve Ferrari gibi matematikçiler tarafından geometrik ispatlar verildi. 
+Üçüncüden daha yüksek derece denklemleri gerçek dışı olarak kabul edildi, çünkü küp gibi üç boyutlu bir biçim gerçekliğin en büyük boyutunu işgal etti. Descartes, a2 soyut miktarının bir alanı olduğu kadar uzunluğu
+ da temsil edebileceğini iddia etti. Bu, ikinci kuvvetin bir alanı temsil etmesi gerektiğinde ısrar eden François Viète gibi matematikçilerin öğretilerine aykırıydı. Descartes konuyu takip etmese de, daha genel bir cebir bilimi 
+veya "evrensel matematiği" tasavvur etmede, mantıksal ilke ve yöntemleri sembolik olarak kapsayabilen ve genel akıl yürütmeyi mekanikleştirebilen sembolik mantık'ın öncüsü olarak, Gottfried Wilhelm Leibniz'den önce geldi.
+
+Descartes'ın çalışması, Newton tarafından geliştirilen hesap ve sonsuz küçükler hesabını teğet doğru problemi'ne uygulayan Leibniz için bir temel sağladı, böylece modern matematiğin bu dalının evrimine izin verdi.
+Onun işaretler kuralı da bir polinomun pozitif ve negatif köklerinin sayısını belirlemek için yaygın olarak kullanılan bir yöntemdir.
+
+Descartes'ın fiziğe olan ilgisinin başlangıcı, mekanik felsefe olarak bilinen yeni bir düşünce okulunun ön saflarında yer alan amatör bilim adamı ve matematikçi Isaac Beeckman'a atfedilir. Bu akıl yürütme temeli ile 
+Descartes, teorilerinin birçoğunu mekanik ve geometrik fizik üzerine formüle etti.[139] Descartes, momentumun korunumu (bir nesnenin hareketinin bir ölçüsü) yasasının erken bir biçimini keşfetti. Ancak Galileo'
+nun tasavvur ettiği gibi mükemmel dairesel hareketin aksine, onu düz bir doğrusal hareketle ilgili olarak tasavvur etti.[139][140] Evren hakkındaki görüşlerini, üç hareket yasasını tanımladığı Felsefenin İlkelerinde 
+(Principles of Philosophy) özetledi.[141] (Newton'un kendi hareket yasaları daha sonra Descartes'ın açıklamasına göre modellenecektir.[139])
+
+Descartes, optik alanına da katkılarda bulunmuştur. Geometrik yapıyı ve kırılma kanunu (Descartes kanunu olarak da bilinir veya Fransa dışında daha yaygın olarak Snell yasası olarak da bilinir) kullanarak 
+bir gökkuşağının açısal yarıçapının 42 derece (yani, gökkuşağının kenarı ve güneşten gökkuşağının merkezinden geçen ışının göze yaptığı açı 42°'dir). [142] Ayrıca yansıma kanunu'nu bağımsız olarak keşfetti 
+ve optik üzerine yazdığı makalede, bu kanundan ilk kez bahsedilmiş oldu.[143]</value>
+  </data>
+  <data name="label79.Text" xml:space="preserve">
+    <value>René Descartes (/deɪˈkɑːrt/ veya UK /ˈdeɪkɑːrt/; Fransızca telaffuz: [ʁəne dekaʁt]; Latinceleştirilmiş: Renatus Cartesius;[a][15] 31 Mart 1596 – 11 
+Şubat 1650[16][17][18]:58), bir Fransız filozof, matematikçi ve bilim insanıydı. Daha önce birbirinden ayrı olan geometri ve cebir alanlarını
+ birleştirerek analitik geometriyi icat etti. İlk olarak Nassaulu Maurice'in Hollanda Devlet Ordusu'nda ve bir Stadhouder olarak Birleşik Hollanda
+ Cumhuriyeti'nde hizmet veren Descartes, çalışma hayatının büyük bir bölümünü Hollanda Cumhuriyeti'nde geçirdi. Hollanda Altın Çağı'nın
+ en dikkate değer entelektüel şahsiyetlerinden biri[19] olan Descartes ayrıca modern felsefenin kurucularından biri olarak kabul edilir.
+
+Descartes'ın felsefesinin birçok unsurunun, geç Aristotelesçilik, 16. yüzyılın yeniden canlanan Stoacılık veya Augustine gibi daha önceki filozoflarda
+ emsalleri vardır. Doğa felsefesi'nde, ekoller'den iki ana noktada ayrıldı: birincisi, cismani töz'ün madde ve biçime ayrılmasını reddetti; ikinci olarak,
+ doğal fenomenleri açıklamada ilahi veya doğal nihai amaçlar'a yapılan herhangi bir çağrıyı reddetti.[20] Teolojisinde Tanrı'nın yaratma eylemi'nin
+ mutlak özgürlüğünde ısrar eder. Önceki filozofların otoritesini kabul etmeyi reddeden Descartes, görüşlerini sıklıkla kendinden önceki filozoflardan 
+ayırır. Duygular üzerine bir erken modern bir inceleme olan Ruhun Tutkularının açılış bölümünde, Descartes, bu konuda "sanki daha önce bu konularda 
+kimse yazmamış gibi" yazacağını iddia edecek kadar ileri gider. En iyi bilinen felsefi ifadesi "Latince: cogito, ergo sum" ("Düşünüyorum, öyleyse varım",
+ İngilizce: "I think, therefore I am"</value>
+  </data>
+  <data name="label116.Text" xml:space="preserve">
+    <value>Geometrinin temel ıspat ve aksiyomlarını kuran bilim insanlarından olan Öklid'in matematik alanındaki en önemli çalışması ve bu aksiyomları ortaya koyduğu kitabı "Elementler"dir. Öklid'in bu kitabı 13 cilt şeklinde yazılmıştı 
+ve Öklid'in matematik alanındaki bu çalışması, bu alandaki en kapsamlı çalışmadır. Kendisinden önceki neredeyse tüm matematik ve geometri çalışmaların da derlemesi sayılan Öklid'in bu eseri, iki bin yıldan fazla bir süredir
+ birçok matematikçi için temel başvuru kitaplarından biri haline gelmiştir.
+Düzlem geometrisi, sayılar teorisi, aritmatik, irrasyonel sayılar ve geometride katı cisimler Öklid’in kitabında ele aldığı başlıca konulardı. Öklid'in bu kitabı yazarken kullandığı yöntem ise kendisinden sonrakiler tarafından 
+"geometrik yöntem" olarak anılmıştır. Geometrik yönteme göre her aksiyom, kendinden önce kanıtlanan tanım ve aksiyonlara göre ortaya konulmaktadır. Her bir önerme, daha önceki önermelere dayandırılarak ortaya 
+konur. Bu sayede kitap kademeli şekilde kanıtlanarak ilerler. Her aksiyom ve önerme, kendisinden sonra bir ya da bir grup aksiyom ve önermenin kanıtıdır. Bu yöntem özellikle 17. yüzyıl filozof ve bilim insanları tarafından
+ sıkça kullanılmıştır.
+Öklid'in "Elementler" eseri, Batı düşünce tarihi için öneminin Kitab-ı Mukaddes'ten sonra ikinci sırada yer aldığı söylenir. Modern dönemden bile birçok bilim insanı, Öklid'in kitabını övmüştür. Çok yakın bir zamana kadar
+ bütün okullarda matematik ve geometride hala Öklid'in bu eseri okutuluyordu. 
+Öklid'in Bulduğu Aksiyomlar
+Öklid'in matematiğe en önemli katkılarından olan bu aksiyomlar madde madde aşağıdaki gibidir.
+1- Bir noktadan başka bir noktaya düz bir doğru çizmek mümkündür. Bi iki noktadan yalnız ve yalnız bir doğru geçer.
+2- Bir doğru parçasını her iki yöne de sonsuz bir şekilde uzatmak mümkündür.
+3- Bir çemberi tanımlamak ve çizebilmek için bir merkez ve bir yarıçap uzunluğu yeterlidir.
+4- Bütün dik açılar birbirine eşittir.
+5- Eğer iki doğru ile kesişen bir doğru çizilirse, iki doğrunun birbirine bakan tarafında yer alan ve onları kesen doğrunun bir tarafında kalan iki açının toplamı iki dik açıdan küçükse bu iki doğru açıların toplamının iki dik açıdan
+ az olduğu tarafta uzatılmaya devam ederlerse ilerde bir noktada kesişecekleri doğrudur. (Bu postula paralel doğrular kesişmez şeklinde bilinen postuladır.)</value>
+  </data>
+  <data name="label117.Text" xml:space="preserve">
+    <value>Öklid (/ˈjuːklɪd/; Grekçe: Εὐκλείδης Eukleídēs; MÖ 330 - 275 yılları arasında yaşamış, İskenderiyeli bir matematikçidir. Megaralı Öklid'den
+ ayırmak için bazen İskenderiyeli Öklid[1] olarak anılır, genellikle "geometrinin kurucusu"[1] veya "geometrinin babası" olarak anılan bir
+ Yunan matematikçiydi. Ptolemy I (MÖ 323–283) döneminde İskenderiye'de aktifti. Elemanlar, yayınlandığı zamandan 19. yüzyılın
+ sonlarına veya 20. yüzyılın başlarına kadar matematik (özellikle geometri) öğretimi için ana ders kitabı olarak hizmet veren, matematik
+ tarihindeki en etkili çalışmalardan biridir.[2][3][4] Elemanlar’da, Öklid, küçük bir aksiyom setinden, şimdi Öklid geometrisi olarak
+ adlandırılan şeyin teoremlerini çıkardı. Öklid ayrıca perspektif, konik kesitler, küresel geometri, sayı teorisi ve matematiksel kesinlik 
+üzerine eserler yazdı.
+
+Öklid gelmiş geçmiş matematikçiler içerisinde adı geometri ile en çok özdeşleştirilen kişidir. Geometri dünyasında kapladığı bu seçkin
+ yeri kendisinin büyük bir matematikçi olmasından çok, geometrinin başlangıcından kendi zamanına kadar bilinen ismi ile Öğeler adını
+ taşıyan kitabında toplamasına borçludur. Öklid derlemesinin tutarlı bir bütün olmasını sağlamak için, kanıt gerektirmeyen apaçık
+ gerçekler olarak 5 aksiyom ortaya koyar. Diğer bütün önermeleri bu aksiyomlardan çıkarır.</value>
+  </data>
+  <data name="label122.Text" xml:space="preserve">
+    <value>Newton'un matematikte neredeyse her dalda katkıları olmuştur. Özellikle analitik geometride eğrilerin teğetleri (diferansiyel) ve eğrilerin oluşturduğu alanları (integral) hesaplamada yöntemler geliştirmiştir
+Bu iki işlemin birbirlerine ters olduğunu bulmuş, eğimler ile ilgili çözümler geliştirmiş ve bunlara akış (fluxion) metotları ismini vermiştir çünkü niceliklerin bir boyuttan diğerine aktığını hayal etmiştir.
+
+Matematikte (a+b) n ifadesinin üstel seriye açılımını veren genel iki terimli teoremini buldu.</value>
+  </data>
+  <data name="label123.Text" xml:space="preserve">
+    <value>Isaac Newton (d. 4 Ocak 1643, Wollsthorpe – ö. 31 Mart 1727, Kensington), İngiliz fizikçi, matematikçi, astronom, mucit, simyacı, teolog ve filozoftur.
+1687'de yayımladığı Philosophiæ Naturalis Principia Mathematica (Doğa Felsefesinin Matematiksel İlkeleri) adlı kitabıyla klasik fizik mekaniğinin temelini 
+oluşturmuş ve bu eser, dünya tarihinin en önemli bilimsel kitaplarından biri olmuştur. Bu eserle birlikte kendi adıyla anılan evrensel kütleçekim yasası ve üç
+ hareket yasasını ortaya koymuş ve kendisinin yaratmış olduğu bu etki, bilim tarihindeki kilometre taşlarından biri olmuştur.
+
+Newton'ın evrensel kütleçekimi ve hareketin üç kanunu, sonraki üç yüzyıl boyunca bilim dünyasına egemen olmuştur. Newton, dünyadaki nesnelerin 
+hareketleri ile gökyüzündeki nesnelerin aynı doğal yasalar ile yönetildiklerini kendi kütleçekim kanunu ve Alman gökbilimci Johannes Kepler’in gezegen
+ hareketleri kanunu arasındaki tutarlılıklar ile göstermiştir. Newton aynı zamanda ilk yansıtmalı teleskobu geliştirmiş, beyaz ışığın bir prizmaya tutulduğunda 
+farklı renklerden bir tayf yapması gözlemi sonucu bir renk kuramı da oluşturmuştur.
+
+Isaac Newton, bilim insanları tarafından bilim tarihinin en etkili insanlarından biri olarak kabul edilmektedir. 1999'un sonlarında, 100 ileri gelen fizikçiyle
+ gerçekleştirilen milenyum oylamasında Isaac Newton, tüm zamanların en iyi fizikçileri arasında Albert Einstein'dan sonra 2. sırayı almıştır.[3][4] Amerikalı
+ astrofizikçi ve yazar Michael H. Hart'ın 1978 yılında yayımladığı "Dünyaya Yön Veren En Etkin 100" adlı kitabında ise Newton, 2. sırada yer alarak Albert
+ Einstein dahil tüm bilim insanlarının en üstünde tutulmuştur. Ünlü bilimkurgu yazarı Isaac Asimov da, Newton'dan ''tarihin en büyük bilim insanı'' olarak bahsetmiştir.</value>
+  </data>
+  <data name="label128.Text" xml:space="preserve">
+    <value>Matematik alanında çığırlar açmış birisidir. Eski Yunan bilginlerinden Kallimakhos'un aktardığı bir düşünceye göre denizcilere kuzey takımyıldızlarından Büyükayı yerine Küçükayı'ya 
+bakarak yön bulmalarını öğütlemiştir. Aynı zamanda Mısırlılardan geometriyi öğrenip Yunanlara tanıtmıştır. Bulduğu bazı geometri teoremleri şunlardır:
+
+Çap çemberi iki eşit parçaya böler.
+Bir ikizkenar üçgenin taban açıları birbirine eşittir.
+Birbirini kesen iki doğrunun oluşturduğu ters açılar birbirine eşittir.
+Köşesi çember üzerinde olan ve çapı gören açı, dik açıdır.
+Tabanı ve buna komşu iki açısı verilen üçgen çizilebilir.
+Genelleştirilmiş 1959 Thales teoremine göre, E noktası AC doğru çizgisi üzerinde olmasa, içeride veya dışarıda olsa "404" eşitliği vardır. (t=1) hâli bilinen klasik Thales teoremidir.</value>
+  </data>
+  <data name="label129.Text" xml:space="preserve">
+    <value>Miletli Thales (Grekçe: Θαλῆς, Thalēs; y. MÖ 624/623 – MÖ 548/545), Milet, İyonya'dan bir Antik Yunan matematikçi, astronom ve Sokrat öncesi filozoftu.
+İlk filozoflardan olduğu için felsefenin ve bilimin öncüsü olarak adlandırılır. İyonya Aydınlanmasının başlatıcısı olarak bilinir ve Eski Yunan'ın Yedi Bilge'sinden 
+ilkidir. Ticaretle uğraşmış ve bu nedenle Mısır'da bulunmuştur. Günümüze ulaşmış hiçbir metni yoktur. Yaşadığı döneme ait kaynaklarda da adına rastlanamaz 
+ancak hakkındaki bilgiler Herodot, Laertios Diogenes, Aristoteles, Theophrastus gibi antik yazarlardan edinilir.
+
+Bertrand Russell'e göre Felsefe, Thales ile başlamıştır. Platon, Theaetetus'da, Thales'den yıldızları incelerken önündeki kuyuyu görmeyen biri olarak bahseder.
+ Aristoteles ise, zeytinin bol çıkacağı yılı tahmin edip izlediği izlemden ötürü, onu, başarılı bir iş insanı olarak anar.
+
+Diogenes Laertios’un söylediğine göre, Yedi Bilgeler Atina’da MÖ 582 civarında kuruldu. Thales, Yedi Bilgelerin arasında yer almaktadır.</value>
+  </data>
+  <data name="label134.Text" xml:space="preserve">
+    <value>Bir dik açılı üçgende dik kenarların her birinin uzunluklarının karelerinin toplamları, hipotenüsün uzunluğunun karesine eşittir. Bu teoremin matematik formülle ifadesi şöyledir: c2 = a2+ b2
+Pisagor'un en büyük başarısı müziğin 1, 2, 3, 4 sayılarının orantılı aralıklarına dayandığını keşfetmesidir. Pisagor evrenin bu sayıların toplamı olan 10 sayısına (1 + 2 + 3 + 4 = 10) dayandığını söylemiştir.
+
+Onun ardından Hippasos, irrasyonel sayıları keşfetmiştir fakat Pisagor için bu düşünülemez bir şeydi ve bu konu yüzünden Hippasos'un öldürüldüğü söylenir.
+
+Ayrıca kare sayıları keşfetmişlerdir. Örneğin 9 bir kare sayıdır: 3*3=9, yine 4 bir kare sayıdır: 2*2=4
+
+Dünyanın yuvarlak olduğunu, her gezegenin bir ekseni olduğunu ve gezegenlerin bir merkezi noktada döndüklerini söyleyen ilk kişilerden biriydi. Bu noktayı önce dünya olarak belirlese de sonradan 
+bu düşünceden vazgeçip gezegenlerin merkezi bir ateş etrafında döndüğünü söylemiştir. Ama bu ateşi asla Güneş olarak tanımlamamıştır. Ayrıca Ay'ın başka bir gezegen olduğuna inanmış ve ona 
+Karşı-Dünya demiştir.</value>
+  </data>
+  <data name="label135.Text" xml:space="preserve">
+    <value>Sisamlı Pisagor[a] (Pythagóras ho Sámios; MÖ 570 – MÖ 495), Antik İyonya'nın en ünlü düşünürlerinden birisidir. Yunan filozof ve Pisagorculuğun kurucusudur. 
+Politik ve dinî öğretilerini daha çok Magna Graecia'da yayan Pisagor, önce Platon ve Aristo'nun felsefelerini sonra ise tüm Batı felsefesini etkiledi. Yaşam hikâyesinin 
+çoğu halk efsaneleriyle gölgelendirilmiştir, fakat Sisam adasında bir mücevher oymacısı olan Mnesarchus'un oğlu olduğu neredeyse kesindir.
+
+En popüler önermesi "Pisagor teoremi"dir. Pisagor ve öğrencileri her şeyin matematikle ilgili olduğuna, sayıların nihai gerçek olduğuna, matematik aracılığıyla 
+her şeyin tahmin edilebileceğine ve ölçülebileceğine inanmışlardır.</value>
+  </data>
+  <data name="label140.Text" xml:space="preserve">
+    <value>Geometriye yapmış olduğu en önemli katkılardan birisi, bir kürenin yüzölçümünün 4πr²ve hacminin ise 4/3πr³eşit olduğunu kanıtlamasıdır. Bir dairenin alanının, 
+tabanı bu dairenin çevresine ve yüksekliği ise yarıçapına eşit bir üçgenin alanına eşit olduğunu kanıtlayarak pi değerinin 3 +l/7 ve 3 +10/71 arasında bulunduğunu göstermiştir. Başka bir deyişle bu formülleri 
+suyun hacim kullanma esnasında alabileceği özkütle çapıdır.
+
+Arşimet parlak matematik başarılarından biri de, eğri yüzeylerin alanlarını bulmak için bazı yöntemler geliştirmesidir. Bir parabol kesmesini dörtgenleştirirken sonsuz küçükler hesabına yaklaşmıştır. Sonsuz 
+küçükler hesabı, bir alana tasavvur edilebilecek en küçük parçadan daha da küçük bir parçayı matematiksel olarak ekleyebilmektir. Bu hesabın çok büyük bir tarihi değeri vardır. Sonradan modern matematiğin 
+gelişmesinin temelini oluşturmuş, Newton ve Leibniz'in bulduğu diferansiyel denklemler ve integral hesap için iyi bir temel oluşturmuştur. Arşimet, Parabolün Dörtgenleştirilmesi adlı kitabında, tüketme metodu
+ ile bir parabol kesmesinin alanının, aynı tabana ve yüksekliğe sahip bir üçgenin alanının 4/3'üne eşit olduğunu ispatlamıştır.</value>
+  </data>
+  <data name="label141.Text" xml:space="preserve">
+    <value>Arşimet yaklaşık MÖ 287 yılında bir liman şehri olan Siraküza'da doğdu. Bu tarihte Siraküza Magna Graecia'nın özerk bir kolonisiydi.
+ Doğum tarihi, Rum tarihçi Ioannes Tzetzes'in Arşimet 75 yıl yaşadı ifadesine dayanmaktadır.[4] Kum Sayacı kitabında Arşimet, babasının 
+adının Phidias olduğunu söyler. Astronom olan babası hakkında bilinen hiçbir bilgi yoktur. Plutarhos Paralel Hayatlar eserinde Arşimet'in 
+Siraküza hükümdarı Kral II. Hiero ile akraba olduğunu yazar.[5] Arşimet'in bir biyografisi arkadaşı Heracleides tarafından yazıldı ancak bu 
+çalışma kayboldu. Bu çalışmanın kaybolması hayatının ayrıntılarını belirsiz bıraktı.[6] Örneğin, evlenip evlenmediği ya da çocuğunun olup 
+olmadığı bilinmiyor. Gençliğinde çağdaşları Eratosthenes ve Konon'un bulunduğu İskenderiye'de öğrenim görmüş olabilir. Konon'dan
+ arkadaşı olarak bahseder ve iki çalışmasının (Mekanik Teoremler Yöntemi ve Sığır Problemi) başlangıcı Eratosthenes'e hitap etmektedir.
+
+
+Arşimet'in ölümü (1815), Thomas Degeorge[7]
+Arşimet, General Marcus Claudius Marcellus komutasındaki Roma kuvvetlerinin Siraküza şehrini iki yıl süren bir kuşatmadan sonra ele 
+geçirdiği İkinci Pön Savaşı sırasında yaklaşık MÖ 212 yılında öldü. Plutarhos tarafından söylenen popüler rivayete göre Arşimet, şehir ele
+ geçirildiğinde matematiksel diyagram tasarlıyordu. Romalı bir asker gelip General Marcellus ile tanışmasını emretti ama Arşimet bu 
+teklifi problem üzerinde çalışmayı bitirmesi gerektiğini söyleyerek reddetti. Asker buna öfkelendi ve Arşimet'i kılıcı ile öldürdü. Ayrıca
+ Plutarhos'un, Arşimet'in ölümü hakkında daha az bilinen bir rivayeti vardır. Bu rivayet bir Roma askerine teslim olmaya çalışırken
+ öldürülmüş olabileceğini akla getirir. Hikâyeye göre, Arşimet matematik aletleri taşıyordu. Asker aletlerin değerli eşya olabileceğini 
+düşündü ve Arşimet'i öldürdü. General Marcellus anlatıldığına göre Arşimet'in ölümüne öfkelendi. General, Arşimet'in değerli bir
+ bilimsel varlık olduğunu düşünüyordu ve zarar görmemesi için emir vermişti.[8] Marcellus Arşimet'ten "bir geometrik Briareus" olarak bahseder.[9]</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>
+
+----------------------------------------------------------------------------------SEAAPP--------------------------------------------------------------------------------------
+
+
+1--&gt;Bu program Code Week etkinliği kapsamında hazırlanmış olup aksi belirtilmediği sürece gerekli izinler alınmadan bilinçli yada bilinçsiz kullanılması yasaktır.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2--&gt;Bu program Salih Etka Akagündüz APP(SEAAPP) tarafından üretilmiş olup tüm hakları ona aittir
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3--&gt;Programda hata olması durumunda daha çok zarar verilmemesi adına uygulamaların kaynak kodunu araştırmak yerine verilen gsm denbelirtilen sorun bildirilmelidir.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4--&gt;Programın işleyişinde belirli hatalar olması normal olup bunları çok kurcalamaması kullanıcının vazifesidir
+
+
+----------------------------------------------------------------------------------SEAAPP--------------------------------------------------------------------------------------</value>
+  </data>
+  <metadata name="colorDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>365, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>28</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        B/7/gB/+/+B//v/4//7////+
+</value>
+  </data>
+</root>
