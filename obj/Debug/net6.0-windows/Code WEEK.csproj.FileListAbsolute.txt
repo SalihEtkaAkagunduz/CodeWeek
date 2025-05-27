@@ -1,0 +1,39 @@
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.csproj.AssemblyReference.cache
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code_WEEK.Form1.resources
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.csproj.GenerateResource.cache
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.AssemblyInfoInputs.cache
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.AssemblyInfo.cs
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.csproj.CoreCompileInputs.cache
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.exe
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.deps.json
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.runtimeconfig.json
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.dll
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.pdb
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.dll
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\refint\Code WEEK.dll
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.pdb
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.genruntimeconfig.cache
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\ref\Code WEEK.dll
+C:\Users\s2344\source\repos\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code_WEEK.Properties.Resources.resources
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.exe
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.deps.json
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.runtimeconfig.json
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.dll
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\bin\Debug\net6.0-windows\Code WEEK.pdb
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.csproj.AssemblyReference.cache
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code_WEEK.Form1.resources
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code_WEEK.Properties.Resources.resources
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.csproj.GenerateResource.cache
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.AssemblyInfoInputs.cache
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.AssemblyInfo.cs
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.csproj.CoreCompileInputs.cache
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.dll
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\refint\Code WEEK.dll
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.pdb
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code WEEK.genruntimeconfig.cache
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\ref\Code WEEK.dll
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code_WEEK.Form2.resources
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code_WEEK.Form3.resources
+C:\Users\s2344\Desktop\Code WEEK\Code WEEK\obj\Debug\net6.0-windows\Code_WEEK.Form4.resources
